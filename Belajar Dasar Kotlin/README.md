@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Belajar-Kotlin-Dasar---1-Pengenalan-Kotlin
+=======
+"# Belajar-Kotlin-Dasar---1-Pengenalan-Kotlin" 
+
+
+>>>>>>> ea3981d582db153d94365e750b0b09ee59ccab78
 
 1. Operasi Matematika
 2. Operasi Perbandingan
@@ -19,6 +25,7 @@
 17. Function Return Type
 18. Single Expression Function
 19. Function Varargs Parameter
+<<<<<<< HEAD
 20. Extension Function
 21. Function Infix Notation
 22. Function Scope
@@ -34,3 +41,5 @@
 32. Package & Import
 33. Main Parameters
 
+=======
+>>>>>>> ea3981d582db153d94365e750b0b09ee59ccab78
