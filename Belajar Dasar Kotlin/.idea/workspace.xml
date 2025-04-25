@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="886a2958-25d9-42d7-83bd-3e82b8bd6307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Belajar Dasar Kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dokumentasi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Break&amp;Continue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoops.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionDefaultArgument.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionNamedArgument.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionParameter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionReturnType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionVarargsParameter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IfExpression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiMatematika.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiPerbandingan.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingleExpressionFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataArray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataRange.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnitReturningFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhenExpression.kt" afterDir="false" />
-    </list>
+    <list default="true" id="886a2958-25d9-42d7-83bd-3e82b8bd6307" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,11 +14,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/WhenExpression.kt" root0="FORCE_HIGHLIGHTING" />
@@ -64,77 +35,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Kotlin.Break_ContinueKt.executor": "Run",
-    "Kotlin.DoWhileLoopsKt.executor": "Run",
-    "Kotlin.ForLoopsKt.executor": "Run",
-    "Kotlin.FunctionDefaultArgumentKt.executor": "Run",
-    "Kotlin.FunctionKt.executor": "Run",
-    "Kotlin.FunctionNamedArgumentKt.executor": "Run",
-    "Kotlin.FunctionParameterKt.executor": "Run",
-    "Kotlin.FunctionReturnTypeKt.executor": "Run",
-    "Kotlin.FunctionVarargsParameterKt.executor": "Run",
-    "Kotlin.IfExpressionKt.executor": "Run",
-    "Kotlin.OperasiBooleanKt.executor": "Run",
-    "Kotlin.OperasiMatematikaKt.executor": "Run",
-    "Kotlin.OperasiPerbandinganKt.executor": "Run",
-    "Kotlin.SingleExpressionFunctionKt.executor": "Run",
-    "Kotlin.TipeDataArrayKt.executor": "Run",
-    "Kotlin.TipeDataRangeKt.executor": "Run",
-    "Kotlin.UnitReturningFunctionKt.executor": "Run",
-    "Kotlin.WhenExpressionKt.executor": "Run",
-    "Kotlin.WhileLoopsKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Kotlin.AnonymousFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Break_ContinueKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ClosureKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DoWhileLoopsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ForLoopsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionDefaultArgumentKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionInfixNotationKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionNamedArgumentKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionParameterKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionReturnTypeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionScopeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionVarargsParameterKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Higher_OrderFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.IfExpressionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ImportKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InlineFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LabelKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LambdaExpressionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainParametersKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.OperasiBooleanKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.OperasiMatematikaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.OperasiPerbandinganKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RecursiveFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SingleExpressionFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TailRecursiveFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TipeDataArrayKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TipeDataRangeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.UnitReturningFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhenExpressionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhileLoopsKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.FunctionVarargsParameterKt">
-    <configuration name="FunctionNamedArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionNamedArgumentKt" />
+}</component>
+  <component name="RunManager" selected="Kotlin.MainParametersKt">
+    <configuration name="AnonymousFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnonymousFunctionsKt" />
       <module name="Belajar Dasar Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionReturnTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionReturnTypeKt" />
+    <configuration name="ImportKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImportKt" />
       <module name="Belajar Dasar Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionVarargsParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionVarargsParameterKt" />
+    <configuration name="InlineFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InlineFunctionKt" />
       <module name="Belajar Dasar Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleExpressionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingleExpressionFunctionKt" />
+    <configuration name="LabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabelKt" />
       <module name="Belajar Dasar Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitReturningFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnitReturningFunctionKt" />
+    <configuration name="MainParametersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainParametersKt" />
       <module name="Belajar Dasar Kotlin" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;audyari wiyono&quot; &quot; budi&quot; &quot;candra&quot; &quot;diki&quot;" />
+      <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Kotlin.AnonymousFunctionsKt" />
+      <item itemvalue="Kotlin.ImportKt" />
+      <item itemvalue="Kotlin.InlineFunctionKt" />
+      <item itemvalue="Kotlin.LabelKt" />
+      <item itemvalue="Kotlin.MainParametersKt" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FunctionVarargsParameterKt" />
-        <item itemvalue="Kotlin.SingleExpressionFunctionKt" />
-        <item itemvalue="Kotlin.FunctionReturnTypeKt" />
-        <item itemvalue="Kotlin.UnitReturningFunctionKt" />
-        <item itemvalue="Kotlin.FunctionNamedArgumentKt" />
+        <item itemvalue="Kotlin.MainParametersKt" />
+        <item itemvalue="Kotlin.ImportKt" />
+        <item itemvalue="Kotlin.LabelKt" />
+        <item itemvalue="Kotlin.InlineFunctionKt" />
+        <item itemvalue="Kotlin.AnonymousFunctionsKt" />
       </list>
     </recent_temporary>
   </component>
